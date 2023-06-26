@@ -4,12 +4,6 @@ Our GitHub organization is the central hub for all of our company's development 
 ## Getting Started
 To get started, you'll need to request access to our organization. Once you have access, you can browse our repositories and start contributing to our projects.
 
-## Repositories
-Our organization houses a variety of repositories, including:
-	•	Game codebases
-	•	Backend infrastructure
-	• Company Framework
-  
 ## Contributing
 We welcome contributions from all of our developers. To contribute to a repository, simply fork the repository, make your changes, and create a pull request. Our team will review your changes and merge them if they meet our standards.
 
